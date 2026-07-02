@@ -60,4 +60,4 @@
 
 ## Fun Fact
 
-I transitioned from Meteorology to Software Engineering through open source, and now I'm passionate about building software that makes impacts worldwide.
+I transitioned from Meteorology to Software Engineering through open source, and now I'm passionate about building softwares that makes impact worldwide.
