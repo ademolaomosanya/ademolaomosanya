@@ -42,11 +42,11 @@
 
 ## My Current Focus
 
-- 🚀 Build production-grade full stack applications
+- 🚀 Building production-grade full stack applications
 - 🌍 Continue contributing to open source
-- 🦀 Learn Rust/C++
-- 🌐 Build Projects (Clyyo, Ferrum & Miivra)
-- 🤖 Explore AI Engineering
+- 🦀 Learning Rust/C++
+- 🌐 Building Projects (Clyyo, Ferrum & Miivra)
+- 🤖 Exploring AI Engineering
 - 📚 Deepen my understanding of distributed systems,  browser internals and AI engineering
 
 ---
