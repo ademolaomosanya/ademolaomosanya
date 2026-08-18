@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ademola Omosanya</h1>
-<h3 align="center">Software Engineer • Open Source Contributor • Building modern web experiences</h3>
+<h3 align="center">Software Engineer • Open Source Contributor </h3>
 
 <p align="center">
   I enjoy building scalable web applications, contributing to open source, and learning how browsers, rendering engines, and distributed systems work.
@@ -8,12 +8,12 @@
 ---
 
 ## About Me
-- 💻 Software Engineer specializing in **Next.js, React, TypeScript, Node.js, PHP, NestJS, Mediawiki and Python**
-- 💼 Open to Software Engineering Internships and Full-Time Opportunities
-- ❤️ Passionate about Open Source and Web Platform technologies
-- 🌱 Currently learning **Browser Engine Architecture, DSA, System Design, and AI Engineering**
-- 👨‍💻 Outreachy Intern & Wikimedia Open Source Contributor
-- 🎯 Working toward becoming a world-class software engineer
+-  Software Engineer specializing in **Next.js, React, TypeScript, Node.js, PHP, NestJS, Mediawiki and Python**
+-  Open to Software Engineering Internships and Full-Time Opportunities
+-  Passionate about Open Source and Web Platform technologies
+-  Currently learning **Browser Engine Architecture, DSA, System Design, and AI Engineering**
+-  Outreachy Intern & Wikimedia Open Source Contributor
+-  Working toward becoming a world-class software engineer
 
 
 ## Experience & Milestones
@@ -40,15 +40,6 @@
   - Closing ceremony timestaps: [My Speech](https://youtu.be/rHMTJB8gleQ?t=2160) and [Reference](https://youtu.be/rHMTJB8gleQ?t=1599)
   - [*Hackathon participant page*](https://www.mediawiki.org/wiki/Wikimedia_Hackathon_2026/Participants#Participant_List)
  
-
-## My Current Focus
-
-- 🚀 Building production-grade full stack applications
-- 🌍 Continue contributing to open source
-- 🦀 Learning Rust/C++
-- 🌐 Building Projects (Clyyo, Ferrum & Miivra)
-- 🤖 Exploring AI Engineering
-- 📚 Deepen my understanding of distributed systems,  browser internals and AI engineering
 
 ---
 
