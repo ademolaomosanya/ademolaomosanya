@@ -11,7 +11,6 @@
 -  Software Engineer specializing in **Next.js, React, TypeScript, Node.js, PHP, NestJS, Mediawiki and Python**
 -  Open to Software Engineering Roles(Contract) and Full-Time Opportunities
 -  Passionate about Open Source and Web Platform technologies
--  Currently learning **Browser Engine Architecture, DSA, System Design, and AI Engineering**
 -  Outreachy Intern & Wikimedia Open Source Contributor
 
 
